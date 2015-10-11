@@ -1,6 +1,6 @@
 {
   "name": "concat-buffers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Concatenate Uint8Arrays",
   "main": "index.js",
   "scripts": {
