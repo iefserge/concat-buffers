@@ -2,6 +2,8 @@
 
 Concatenate Uint8Arrays
 
+[![Build Status](https://travis-ci.org/iefserge/concat-buffers.svg)](https://travis-ci.org/iefserge/concat-buffers)
+
 ## USAGE
 
 ```js
